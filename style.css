@@ -3,7 +3,7 @@ body
 	background-color: #f9f9f9;
 }
 
-div
+div#left-side
 {
 	background-color: #ebebeb;
 	padding: 20px;
@@ -11,5 +11,24 @@ div
 	font-size:20px;
 	font-family: calibri;
 	text-align: justify;
-	box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	float: left;		
+}
+
+div#right-side
+{
+	width:46%;
+	float: left;
+	border-style: solid;
+    border-width: 1px;
+}
+
+div#right-side-element
+{
+	width:45%;
+	float: left;
+	border-style: solid;
+    border-width: 5px;
+	background-color: #317ea5;
+	margin-left: 30%; 
 }
