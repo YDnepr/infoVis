@@ -3,7 +3,7 @@
 
 0. Added id "left-side"  for div with text. !
 1. Added "right side" div for the expanded barchart. !
-2. Added "mouse click" action, when you click on a little barchart in order to see the big barchart on the right side.
+2. Added "mouse click" action, when you click on a little barchart in order to see the big barchart on the right side.!
 3. Composed big barchart.
 
 ----------------
