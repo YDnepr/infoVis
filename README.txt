@@ -1,9 +1,14 @@
+ToDo:
+0. The fild appears on the top or bottom, depending where the word you clicked on is.
+1. Align field in the landscape orientation.
+2. Implement timeline from the given project
+
 ---------------
 12.04
 
-0. The fild popping up over a text in portrait orientation
-1. The fild appears on the top or bottom, depending where the word you clicked on is.
-2. Composed big barchart.
+0. Create styles for portrait and landscape orientation. ! 
+1. The fild popping up over a text in portrait orientation. ! 
+
 ----------------
 11.04.
 
